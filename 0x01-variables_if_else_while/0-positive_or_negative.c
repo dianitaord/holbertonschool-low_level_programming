@@ -3,7 +3,7 @@
 #include <stdio.h>
 
 /**
-*main - display numbers random positive,zero or negative
+* main - display numbers random positive,zero or negative
 * Return: 0
 */
 
