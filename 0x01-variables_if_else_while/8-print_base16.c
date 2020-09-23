@@ -15,7 +15,7 @@ int main(void)
 	{
 		putchar(base10);
 	}
-	for (letra = 97; letra <=102; letra++)
+	for (letra = 97; letra <= 102; letra++)
 	{
 		putchar(letra);
 	}
