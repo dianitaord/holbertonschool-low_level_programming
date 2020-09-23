@@ -12,7 +12,7 @@ int main(void)
 
 	for (base10 = 0; base10 <= 9; base10++)
 	{
-		printf(" %d ", base10);
+		printf("%d\n", base10);
 	}
 	return (0);
 }
